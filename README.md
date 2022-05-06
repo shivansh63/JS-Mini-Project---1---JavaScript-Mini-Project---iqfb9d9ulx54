@@ -38,7 +38,7 @@ and if money is credited in your account then just add positive sign with the am
 
 To deploy this project run
 
-<a src="https://shivansh63.github.io/JS-Mini-Project---1---JavaScript-Mini-Project---iqfb9d9ulx54/">Website Link</a>
+[Website link](https://shivansh63.github.io/JS-Mini-Project---1---JavaScript-Mini-Project---iqfb9d9ulx54/)
 
 ## Used By
 
